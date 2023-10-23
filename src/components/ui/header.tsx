@@ -13,7 +13,6 @@ import { Button } from "./button";
 import { Card } from "./card";
 import { Sheet, SheetContent, SheetHeader, SheetTrigger } from "./sheet";
 import { signIn, signOut, useSession } from "next-auth/react";
-import {} from "@radix-ui/react-avatar";
 import { Avatar, AvatarImage, AvatarFallback } from "./avatar";
 import { Separator } from "./separator";
 
